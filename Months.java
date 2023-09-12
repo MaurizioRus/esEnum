@@ -1,5 +1,5 @@
 public class Months {
     public enum Month {
-        JANUARY, FEBRUARY, MARCH, APRIL, MAY, JUNE, JULY, AUGUST, SEPTEMBER, OCTOBER, NOVEMBER, DECEMBER;
+        January, February, March, April, May, June, July, August, September, October, November, December;
     }
 }
